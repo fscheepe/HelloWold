@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">No Name Yet</string>
+    <string name="edt_name_hint">Full Name</string>
+    <string name="edt_password_hint">Password</string>
+    <string name="btn_register_hint">Register</string>
+    <string name="lbl_register">Register</string>
+    <string name="lbl_login">Login</string>
+    <string name="btn_login_hint">Login</string>
+    <string name="edt_uname_hint">Username</string>
+    <string name="edt_repassword_hint">Re-enter Password</string>
+    <string name="spinner_hint">Gender</string>
+    <string name="chkbx_autologin">Auto-login?</string>
+    <string-array name="Genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+</resources>
